@@ -9,6 +9,21 @@ div {
   margin-top: 30px;
 }
 
+.contactItem {
+  border-color: white;
+  border-style: solid;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-left: 100px;
+  margin-right: 100px;
+  background-image: url(https://media.istockphoto.com/vectors/construction-worker-icon-vector-id188145518);
+  background-position: center;
+  background-attachment: fixed;
+  color: darkblue;
+  font-style: oblique;
+  font-size: 30px;
+}
+
 img:hover{
   border-style: double;
   border-color: white;
